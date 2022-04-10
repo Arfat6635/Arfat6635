@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://c.tenor.com/cg0h-BiFJ5gAAAAC/star-wars-baby-yoda.gif" alt="Welcome!" width="300"/>
+<img src="https://github.com/Arfat6635/Arfat6635/blob/master/images/yoda_welcome.gif" alt="Welcome!" width="300"/>
 
 </div>
 
