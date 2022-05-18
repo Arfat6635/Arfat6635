@@ -22,7 +22,7 @@ or <a href="mailto:arfat6635@gmail.com"><b>email</b></a> me.
 
 ##  📈 My github stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arfat6635&theme=dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arfat6635&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Arfat6635.visitor-badge)
 
